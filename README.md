@@ -1,2 +1,2 @@
-# dbt_fundamentals
+# lparcon-dbt
 Learning curve for dbt
